@@ -30,8 +30,6 @@ The challenge was to design a **compact antenna at 5.8 GHz** with good impedance
 - Simulation Range: 4 GHz – 7 GHz  
 - Substrate: εr = 3.4, h = 1.6 mm  
 
-## 🙏 Acknowledgments
-Special thanks to **Anvesh Katta** and **Ramesha** for their guidance and to **Altair Engineering** for providing access to FEKO tools.  
 
 ---
 
